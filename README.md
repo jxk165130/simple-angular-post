@@ -1,4 +1,5 @@
-# simple-angular-post
+# Angular UI development
+# Post and Delete
 
 ng serve
 
